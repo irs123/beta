@@ -14,7 +14,7 @@ public class MyFrontController extends AbstractAnnotationConfigDispatcherServlet
 	@Override
 	protected Class<?>[] getServletConfigClasses() {
 		// TODO Auto-generated method stub
-		return new Class[] {MvcConfig.class};
+		return null;
 	}
 
 	@Override
